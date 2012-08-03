@@ -1,4 +1,4 @@
-clickinglabs_ruby
+Clicking Labs Ruby 101
 =================
 
-The sample code repository for the Clicking Labs ruby class
+The code repository for the Clicking Labs ruby class
